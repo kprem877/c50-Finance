@@ -1,1 +1,2 @@
-#C0 Finance
+#CS50 Finance
+
